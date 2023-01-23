@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fav-webseries/static/css/main.77299492.css",
+    "main.js": "/fav-webseries/static/js/main.4406e979.js",
+    "index.html": "/fav-webseries/index.html",
+    "main.77299492.css.map": "/fav-webseries/static/css/main.77299492.css.map",
+    "main.4406e979.js.map": "/fav-webseries/static/js/main.4406e979.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77299492.css",
+    "static/js/main.4406e979.js"
+  ]
+}
